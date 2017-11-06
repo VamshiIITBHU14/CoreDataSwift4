@@ -1,0 +1,78 @@
+{
+    "books": [{
+              "name": "The Fountainhead",
+              "rating": 5,
+              "image": "1.jpg",
+              "author": "Ayn Rand"
+              },{
+              "name": "The Effective Executive",
+              "rating": 5,
+              "image": "2.jpg",
+              "author": "Peter Drucker"
+              },{
+              "name": "The Innovator's Dilemma",
+              "rating": 4,
+              "image": "3.jpg",
+              "author": "Clayton Christensen"
+              },{
+              "name": "Business Adventures",
+              "rating": 4,
+              "image": "4.jpg",
+              "author": "John Brooks"
+              },{
+              "name": "Benjamin Franklin",
+              "rating": 4,
+              "image": "5.jpg",
+              "author": "Walter Isaacson"
+              },{
+              "name": "Think and Grow Rich",
+              "rating": 5,
+              "image": "6.jpg",
+              "author": "Napoleon Hill"
+              },{
+              "name": "Conscious Capitalism",
+              "rating": 3,
+              "image": "7.jpg",
+              "author": "John Mackey"
+              },{
+              "name": "As a Man Thinketh",
+              "rating": 5,
+              "image": "8.jpg",
+              "author": "James Allen"
+              },{
+              "name": "Meditations",
+              "rating": 4,
+              "image": "9.jpg",
+              "author": "Marcus Aurelius"
+              },{
+              "name": "Blink",
+              "rating": 4,
+              "image": "10.jpg",
+              "author": "Malcolm Gladwell"
+              },{
+              "name": "Zero to One",
+              "rating": 5,
+              "image": "11.jpg",
+              "author": "Peter Thiel"
+              },{
+              "name": "Reality Check",
+              "rating": 3,
+              "image": "12.jpg",
+              "author": "Guy Kawasaki"
+              },{
+              "name": "Out of the Crisis",
+              "rating": 3,
+              "image": "13.jpg",
+              "author": "W. Edwards Deming"
+              },{
+              "name": "Peak",
+              "rating": 3,
+              "image": "14.jpg",
+              "author": "Chip Conley"
+              },{
+              "name": "Lucky or Smart?",
+              "rating": 3,
+              "image": "15.jpg",
+              "author": "Bo Peabody"
+              }]
+}
